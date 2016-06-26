@@ -6,6 +6,7 @@
 - learn by testing your recall
 - perfect for recycling and revising vocabulary
 - elegant, responsive, mobile-first layout
+- dependency on jQuery & jQuery Mobile
 
 ### screenshot / example
 ![screenshot](http://monolithpl.github.io/flashcards/flashcards.png "screenshot")
